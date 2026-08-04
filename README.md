@@ -23,10 +23,15 @@ How many customers purchased from us?
 Is the customer base growing?
 Are we attracting enough customers?
 
+
+<a href="https://github.com/godfreychuk007-png/Data-Analysis-Dashboard/blob/main/sales%20performance%20on%20excel.png">Dashboard<a/>
+
+
 # Process
 
 The sales data was collected, cleaned, and organized to ensure accuracy and consistency. Key performance indicators (KPIs), charts, and interactive filters were created to visualize revenue, profit, sales trends, product performance, and regional analysis. Finally, the dashboard was tested and refined to provide users with an interactive tool for monitoring business performance and supporting data-driven decision-making.
 
 # Dashboard
-<a href="https://github.com/godfreychuk007-png/Data-Analysis-Dashboard/blob/main/sales%20performance%20on%20excel.png">Dashboard<a/>
+
+<img width="633" height="447" alt="sales performance on excel" src="https://github.com/user-attachments/assets/59a93f3f-f231-42f1-add9-44aff408a5fa" />
 
